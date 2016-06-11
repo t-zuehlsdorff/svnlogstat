@@ -1,0 +1,6 @@
+[SVN-LOG-STAT]
+CONNECTION = "pgsql:host=localhost;dbname=svnlogstat"
+USER = "svnlogstat"
+PASS = ""
+BIND-DATA-TYPE = true
+DEFAULT = true
